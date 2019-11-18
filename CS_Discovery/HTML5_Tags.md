@@ -2,7 +2,7 @@
 
 |Tags|Usages|
 |:-----:|--------|
-|<!DOCTYPE html>| Defines the html document type |
+|\<!DOCTYPE html>| Defines the html document type |
 |\<!--...--> | Defines a comment|
 |\<html> \</html>| Defines an html document |
 |\<head> \</head>| Defines information about the document|
@@ -19,6 +19,6 @@
 |\<ol> \</ol> | Defines an ordered list|
 |\<li> \</li> | Defines a list item|
 |\<p> \</p>| Defines a paragraph|
-|\<img src=" " alt=" "| Defines an image|
+|\<img src=" " alt=" ">| Defines an image|
 |\<a href=" "> name \</a> |Defines a hyperlink|
 
