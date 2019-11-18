@@ -1,6 +1,6 @@
 ## HTML 5 Tags
 
-|Tags|Definitions|
+|Tags|Usages|
 |:-----:|--------|
 |<!DOCTYPE>| Defines the document type |
 |\<html> \</html>| Defines an html document |
