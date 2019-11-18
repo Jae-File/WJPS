@@ -3,6 +3,7 @@
 |Tags|Usages|
 |:-----:|--------|
 |<!DOCTYPE>| Defines the document type |
+|\<!--...--> | Defines a comment|
 |\<html> \</html>| Defines an html document |
 |\<body> \</body>| Defines the body element |
 |\<h1> \</h1> | Defines header 1|
