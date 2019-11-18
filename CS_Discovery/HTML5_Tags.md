@@ -2,9 +2,12 @@
 
 |Tags|Usages|
 |:-----:|--------|
-|<!DOCTYPE>| Defines the document type |
+|<!DOCTYPE html>| Defines the html document type |
 |\<!--...--> | Defines a comment|
 |\<html> \</html>| Defines an html document |
+|\<head> \</head>| Defines information about the document|
+|\<title> \</title> | Defines the document title|
+|\<link rel="stylesheet" type="text/css" href="style.css">|Defines a CSS resource reference|
 |\<body> \</body>| Defines the body element |
 |\<h1> \</h1> | Defines header 1|
 |\<h2> \</h2> | Defines header 2|
@@ -16,3 +19,6 @@
 |\<ol> \</ol> | Defines an ordered list|
 |\<li> \</li> | Defines a list item|
 |\<p> \</p>| Defines a paragraph|
+|\<img src=" " alt=" "| Defines an image|
+|\<a href=" "> name \</a> |Defines a hyperlink|
+
