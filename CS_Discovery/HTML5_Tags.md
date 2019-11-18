@@ -56,11 +56,12 @@
       <li> item 2 </li>
     </ol>
     
-    <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at est non lorem tincidunt lacinia. 
-      Mauris bibendum, erat et elementum dapibus, ligula quam finibus ipsum, vel euismod ipsum tortor eu neque. 
-      Nulla condimentum purus ac sollicitudin aliquet. Suspendisse sit amet rutrum felis, rhoncus ornare dolor. 
-      In in suscipit velit. Maecenas imperdiet, arcu ut mattis imperdiet, est nisi ultrices leo, sed tristique 
-      quam purus eget lectus. Suspendisse pretium enim purus, id tempus eros dictum non. Phasellus at quam velit. </p>
+    <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at est non lorem 
+      tincidunt lacinia. Mauris bibendum, erat et elementum dapibus, ligula quam finibus 
+      ipsum, vel euismod ipsum tortor eu neque. Nulla condimentum purus ac sollicitudin aliquet.
+      Suspendisse sit amet rutrum felis, rhoncus ornare dolor. In in suscipit velit. Maecenas 
+      imperdiet, arcu ut mattis imperdiet, est nisi ultrices leo, sed tristique quam purus eget 
+      lectus. Suspendisse pretium enim purus, id tempus eros dictum non. Phasellus at quam velit. </p>
     
     <img src="pets.jpg" alt="pets">   
   </body>
