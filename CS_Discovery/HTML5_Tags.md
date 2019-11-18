@@ -22,3 +22,6 @@
 |\<img src=" " alt=" ">| Defines an image|
 |\<a href=" "> name \</a> |Defines a hyperlink|
 
+#### Tag attribute
+\<p class = " "> \</p>
+*Note: Attribue can be put on any html tag, however, ususally it is only put on content tags.*
